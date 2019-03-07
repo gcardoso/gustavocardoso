@@ -2,5 +2,6 @@
 Repositório AC 1
 
 Luisa Sonza
-Whindersson Nunes
+Nuno Agonia
 Bruno Gagliasso
+Gustavo Cardoso
